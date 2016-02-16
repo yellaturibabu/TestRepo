@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Time: 2015-04-02T10:10:38+0200
+Built-By: sonarsource
+Build-Jdk: 1.7.0_67
+Created-By: Apache Maven 3.0.5
+Implementation-Build: 4aa9af3a6a4362b61db365fba32eb0a55d411e7a
+Version: 5.1
+Archiver-Version: Plexus Archiver
+
